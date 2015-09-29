@@ -7,7 +7,7 @@ If you are unfamiliar with Conway's Game of Life, feel free to read up on it.
 * Find a pair. 
 	* If you have been programming for a while, find someone who is not as comfortable.
 	* If you are new to programming, find someone who is more comfortable with programming.
-* Let one pair do the programming and the other add suggestions and ideas.
+* Let one person do the programming and the other add suggestions and ideas.
 * Every 15 minutes, push your code to this repository and switch with your partner.
 	* Commit often.
 	* If you want us to review your code, be sure to do a pull request.
