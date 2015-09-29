@@ -6,5 +6,5 @@ If you are unfamiliar with Conway's Game of Life, feel free to read up on it.
 * Find a pair. (You will only need 1 computer.)
 * Commit often.
 * Every 15 minutes, push your code to this repository and switch with your partner.
-** If you want us to review your code, be sure to do a pull request.
+	* If you want us to review your code, be sure to do a pull request.
 * Review and edit your code according to the comments placed on the pull request.
