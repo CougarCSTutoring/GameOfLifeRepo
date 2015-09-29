@@ -7,3 +7,4 @@ If you are unfamiliar with Conway's Game of Life, feel free to read up on it.
 * Commit often.
 * Every 15 minutes, push your code to this repository and switch with your partner.
 * Review and edit your code according to the comments placed on the PR.
+* Testing
