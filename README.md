@@ -6,7 +6,7 @@ If you are unfamiliar with Conway's Game of Life, feel free to read up on it.
 * Fork this repository into your personal github account.
 * Find a pair. 
 	* If you have been programming for a while, find someone who is not as comfortable.
-	* If you are new to programming, find someone who is more comfortable with programming.
+	* If you are new to programming, find someone who is more comfortable.
 * Let one person do the programming and the other add suggestions and ideas.
 * Every 15 minutes, push your code to this repository and switch with your partner.
 	* Commit often.
